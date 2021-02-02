@@ -1,0 +1,39 @@
+body {
+    width: auto;
+    padding: 0%;
+    margin: 0% auto;
+    flex-direction: column;
+
+}
+
+.timer  {
+
+      padding-top: 20%;
+      text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.timer > h1 {
+    display: inline;
+    padding: 2%;
+}
+
+.timerBtn {
+    text-align: center;
+    flex-wrap: nowrap;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+   
+   
+    
+}
+.timerBtn > button {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+   padding: 10px;
+   margin: 10px;
+   background-color: azure;
+   border: 8px black;
+   border-radius: 4px;
+
+
+}
